@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/sun"
+        android:title="Главная"
+        android:icon="@drawable/baseline_wb_sunny_24"/>
+
+    <item
+        android:id="@+id/search"
+        android:title="Туры"
+        android:icon="@drawable/baseline_search_24"/>
+
+    <item
+        android:id="@+id/help"
+        android:title="О приложении      "
+        android:icon="@drawable/baseline_help_24"/>
+
+    <item
+        android:id="@+id/info"
+        android:title="Информация о разработчике"
+        android:icon="@drawable/baseline_info_24"/>
+
+</menu>

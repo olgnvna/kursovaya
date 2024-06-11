@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/transparent_color">
+
+    <TextView
+        android:layout_width="372dp"
+        android:layout_height="137dp"
+        android:layout_marginBottom="8dp"
+        android:gravity="center"
+        android:text="Информация о программе"
+        android:textColor="@color/white"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="369dp"
+        android:gravity="center"
+        android:text="Запущенная программа разработана в мае 2024 года как курсовой проект на языке Java.
+Разработка была основана на знаниях, полученных в течение курса 'Разработка мобильных приложений'.
+Название программы - 'Приложение для планирования отпуска и путешествий'"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"/>
+
+</LinearLayout>

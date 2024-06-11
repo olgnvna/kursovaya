@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/transparent_color">
+
+    <TextView
+        android:layout_width="385dp"
+        android:layout_height="132dp"
+        android:layout_marginBottom="8dp"
+        android:gravity="center"
+        android:text="Инструкция по использованию"
+        android:textColor="@color/white"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="421dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:gravity="center"
+        android:text="На вкладке 'Главная' расположено приветствие и различные приятности, чтобы пользоваться приложением было в радость. На вкладке 'Туры' можно найти страны, в которые можно забронировать тур. На вкладке 'О приложении' вы найдете информацию о приложении и инструкцию по использованию. На вкладке 'Информация об авторе' вы найдете информацию об авторе, который создал это прекрасное приложение."
+        android:textColor="@color/white"
+        android:textSize="20sp" />
+
+</LinearLayout>

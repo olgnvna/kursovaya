@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomAlertDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">#E1DAFF</item>
+        <item name="android:background">@color/lavender</item>
+    </style>
+</resources>

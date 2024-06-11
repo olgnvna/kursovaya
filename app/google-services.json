@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "349233727048",
+    "project_id": "kursovaya-7beb6",
+    "storage_bucket": "kursovaya-7beb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349233727048:android:3ff45d33763437a0123a7d",
+        "android_client_info": {
+          "package_name": "com.example.kursovaya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6J3UPESFvHi2uX0vTtgvadQQXzvZ0Zck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
